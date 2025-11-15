@@ -30,8 +30,16 @@ The analysis identified three primary factors influencing employee compensation:
 
 - Google Colab
 
-##PROJECT VISUALS
+## PROJECT VISUALS
+### 1. Education Level vs. Salary
 
+![Average Salary by Education Level](Images/average_salary_by_education_level.png)
+*Insight: This chart demonstrates the sharp increase in salary with advanced degrees.*
+
+### 2. Salary Progression with Age
+
+![Salary Distribution Across Ages](Images/salary_distribution_across_ages.png)
+*Insight: Salary dispersion is much wider for employees over 40.*
 
 ## CONTACT ME
 Explore my portfolio to see how I keep the details in check and businesses on track [https://gloriaaustinportfolio.my.canva.site/]
