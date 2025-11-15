@@ -43,7 +43,7 @@ The analysis identified three primary factors influencing employee compensation:
 
 ### 3. Gender vs. Salary
 
-![Average Salary by Gender](Images/average_salary_by_gender.png)
+![Mean Salary by Gender](Images/mean_salary_by_gender.png)
 
 *Insight: Men earn a higher average salary than Women across the dataset. The pay gap is evident, with the average salary for the Male group being visibly higher than the Female group. Further analysis is needed to determine the root cause*
 
@@ -56,7 +56,7 @@ The analysis identified three primary factors influencing employee compensation:
 
 ### 5. Top 5 Jobs
 
-![Top_5_Jobs](Images/top_5_jobs.png)
+![Top 5 Jobs](Images/top_5_jobs(1).png)
 
 *Insights: The highest-paying jobs are dominated by executive and specialized technical roles. Executive Leaders (like CEO and CTO) and advanced Data Science roles consistently have the highest average salaries in the dataset. This shows that the market places the highest value on both company management and highly specialized, cutting-edge technical expertise.*
 
