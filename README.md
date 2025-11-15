@@ -1,36 +1,37 @@
-# **DATA ANALYST**
+# **EMPLOYEES SALARY DATA ANALYSIS**
 
-## ABOUT ME
-**I transform complex, raw data into clear, impactful business strategies.**
+## PROJECT OVERVIEW
+Exploratory Data Analysis (EDA) on an employee salary dataset to uncover key compensation drivers and demographic trends. This project utilizes **Pandas** for data manipulation and **Matplotlib** for visualizations, performed using **Python**.
 
-I am Gloria Austin, a detail-driven data analyst with a focus on improving business productivity by bridging the gap between raw data and useful insights. My core expertise includes data entry, research, comprehensive analysis, and operations support, transforming scattered data into clean, functional systems. Leveraging hands-on experience with tools like Python, PowerBI, Tableau, and Excel, I ensure data accuracy and smooth analytical workflows. My background in scientific research provides a rigorous, analytical approach to every project, guaranteeing reliable and deep insights.
+## DATASET
+**Source**: Kaggle - [https://www.kaggle.com/datasets/mohithsairamreddy/salary-data,]
 
-## PRODUCTS 
-Employees salaries dataset
+**Variables Analyzed**:'Age', 'Gender', 'Education Level',	'Job Title', 'Years of Experience', 'Salary'
 
-_Tools used: Python(Pandas and Matplotlib)_
+**Notebook**: [https://colab.research.google.com/drive/1qIGnICkrgF4eRFLRL__qqeFITS2BMyjH?usp=sharing]
 
-_Description: A simple Python data analysis project exploring salary trends using Pandas and Matplotlib. Includes data cleaning, descriptive statistics, and visualizations created in Google Colab. Demonstrates basic EDA skills using a Kaggle dataset._
+## KEY FINDINGS
+The analysis identified three primary factors influencing employee compensation:
 
-## EDUCATION
-First Class Honors, B.Sc in Biochemistry
+1. Education Level is the Strongest Predictor: A strong, linear relationship was found between education level and average salary. Getting a higher degree is the biggest factor in earning more money. People with a PhD (the highest degree) or a Master's degree consistently earn much more than others. This shows that companies pay a lot extra for highly specialized knowledge.
 
-Landmark University
+2. Job Title and Leadership Drive Top Earnings: The best-paying jobs are held by Executive Leaders (like CEO and CTO) and people in advanced Data Science roles. This highlights the high value placed on company managers and employees with advanced technical skills.
+   
+3. Salary Dispersion Increases with Age: While salary generally increases with age and experience, the range widens dramatically after age 40. At this stage, specific job roles and performance become more important for reaching the highest salaries than just how many years you've worked.
+   
+4. Gender Pay Disparity: The data shows that Men earn a higher average salary than Women. This pay gap needs to be investigated further to determine if this is an uncontrolled gap (due to career choice) or controlled pay disparity.
 
-2020-2024
+## TECHNOLOGIES USED
+- Python
 
-## CERTIFICATIONS
-Certified Data Analyst Level 1
-Provider: Entry Level
-Issued: September 2023
+- Pandas
 
-Certified Python Data Analyst
-Provider: She Leads Africa (SLA)
-Issued: November 2025
+- Matplotlib
 
-Deloitte Australia - Data Analytics Job Simulation
-Provider: Forage
-Issued: March 2025
+- Google Colab
+
+##PROJECT VISUALS
+
 
 ## CONTACT ME
 Explore my portfolio to see how I keep the details in check and businesses on track [https://gloriaaustinportfolio.my.canva.site/]
