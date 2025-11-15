@@ -31,15 +31,31 @@ The analysis identified three primary factors influencing employee compensation:
 - Google Colab
 
 ## PROJECT VISUALS
-### 1. Education Level vs. Salary
+### 1. Education Level vs. Salary (Bar Chart)
 
 ![Average Salary by Education Level](Images/average_salary_by_education_level.png)
+
 *Insight: This chart demonstrates the sharp increase in salary with advanced degrees.*
 
 ### 2. Salary Progression with Age
 
 ![Salary Distribution Across Ages](Images/salary_distribution_across_ages.png)
+
+### 3. Gender vs. Salary
+![Average Salary by Gender](Images/average_salary_by_gender.png)
+*Insight: Men earn a higher average salary than Women across the dataset. The pay gap is evident, with the average salary for the Male group being visibly higher than the Female group. Further analysis is needed to determine the root cause*
+
+### Education Level vs. Salary (Line Chart)
+
+![Average Salary by Education Level](Images/average_salary_by_education_level_line.png)
+*Insight: There is a clear, direct, and positive relationship between education and compensation. The line shows a steady, upward trend: as the level of education increases (from High School up to PhD), the average salary increases significantly. The biggest salary jumps occur after attaining a Master's Degree and a PhD.*
+
 *Insight: Salary dispersion is much wider for employees over 40.*
+
+
+### Top 5 Jobs
+![Top 5 Jobs](Images/top_5_jobs.png)
+*Insights: The highest-paying jobs are dominated by executive and specialized technical roles. Executive Leaders (like CEO and CTO) and advanced Data Science roles consistently have the highest average salaries in the dataset. This shows that the market places the highest value on both company management and highly specialized, cutting-edge technical expertise.*
 
 ## CONTACT ME
 Explore my portfolio to see how I keep the details in check and businesses on track [https://gloriaaustinportfolio.my.canva.site/]
